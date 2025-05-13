@@ -1,0 +1,17 @@
+C:\Users\visiontechConsulting\source\repos\HealthCare\Aplication\bin\Debug\net8.0\Aplication.deps.json
+C:\Users\visiontechConsulting\source\repos\HealthCare\Aplication\bin\Debug\net8.0\Aplication.dll
+C:\Users\visiontechConsulting\source\repos\HealthCare\Aplication\bin\Debug\net8.0\Aplication.pdb
+C:\Users\visiontechConsulting\source\repos\HealthCare\Aplication\bin\Debug\net8.0\Domain.dll
+C:\Users\visiontechConsulting\source\repos\HealthCare\Aplication\bin\Debug\net8.0\Infraestructure.dll
+C:\Users\visiontechConsulting\source\repos\HealthCare\Aplication\bin\Debug\net8.0\Infraestructure.pdb
+C:\Users\visiontechConsulting\source\repos\HealthCare\Aplication\bin\Debug\net8.0\Domain.pdb
+C:\Users\visiontechConsulting\source\repos\HealthCare\Aplication\obj\Debug\net8.0\Aplication.csproj.AssemblyReference.cache
+C:\Users\visiontechConsulting\source\repos\HealthCare\Aplication\obj\Debug\net8.0\Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visiontechConsulting\source\repos\HealthCare\Aplication\obj\Debug\net8.0\Aplication.AssemblyInfoInputs.cache
+C:\Users\visiontechConsulting\source\repos\HealthCare\Aplication\obj\Debug\net8.0\Aplication.AssemblyInfo.cs
+C:\Users\visiontechConsulting\source\repos\HealthCare\Aplication\obj\Debug\net8.0\Aplication.csproj.CoreCompileInputs.cache
+C:\Users\visiontechConsulting\source\repos\HealthCare\Aplication\obj\Debug\net8.0\Aplication.csproj.Up2Date
+C:\Users\visiontechConsulting\source\repos\HealthCare\Aplication\obj\Debug\net8.0\Aplication.dll
+C:\Users\visiontechConsulting\source\repos\HealthCare\Aplication\obj\Debug\net8.0\refint\Aplication.dll
+C:\Users\visiontechConsulting\source\repos\HealthCare\Aplication\obj\Debug\net8.0\Aplication.pdb
+C:\Users\visiontechConsulting\source\repos\HealthCare\Aplication\obj\Debug\net8.0\ref\Aplication.dll

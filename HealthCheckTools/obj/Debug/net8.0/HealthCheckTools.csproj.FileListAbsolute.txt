@@ -1,0 +1,12 @@
+C:\Users\visiontechConsulting\source\repos\HealthCare\HealthCheckTools\bin\Debug\net8.0\HealthCheckTools.deps.json
+C:\Users\visiontechConsulting\source\repos\HealthCare\HealthCheckTools\bin\Debug\net8.0\HealthCheckTools.dll
+C:\Users\visiontechConsulting\source\repos\HealthCare\HealthCheckTools\bin\Debug\net8.0\HealthCheckTools.pdb
+C:\Users\visiontechConsulting\source\repos\HealthCare\HealthCheckTools\obj\Debug\net8.0\HealthCheckTools.csproj.AssemblyReference.cache
+C:\Users\visiontechConsulting\source\repos\HealthCare\HealthCheckTools\obj\Debug\net8.0\HealthCheckTools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visiontechConsulting\source\repos\HealthCare\HealthCheckTools\obj\Debug\net8.0\HealthCheckTools.AssemblyInfoInputs.cache
+C:\Users\visiontechConsulting\source\repos\HealthCare\HealthCheckTools\obj\Debug\net8.0\HealthCheckTools.AssemblyInfo.cs
+C:\Users\visiontechConsulting\source\repos\HealthCare\HealthCheckTools\obj\Debug\net8.0\HealthCheckTools.csproj.CoreCompileInputs.cache
+C:\Users\visiontechConsulting\source\repos\HealthCare\HealthCheckTools\obj\Debug\net8.0\HealthCheckTools.dll
+C:\Users\visiontechConsulting\source\repos\HealthCare\HealthCheckTools\obj\Debug\net8.0\refint\HealthCheckTools.dll
+C:\Users\visiontechConsulting\source\repos\HealthCare\HealthCheckTools\obj\Debug\net8.0\HealthCheckTools.pdb
+C:\Users\visiontechConsulting\source\repos\HealthCare\HealthCheckTools\obj\Debug\net8.0\ref\HealthCheckTools.dll
